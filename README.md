@@ -1,6 +1,6 @@
 <h2> Hi, I'm Divyansh Dwivedi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230"/>
-<p><em>Android Developer at <a href="http://www.redcarpetup.com">RedCarpetup</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Founder at <a href="https://github.com/The-Kite-Foundation">The Kite Foundation</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Data Scientist at <a href="https://www.jpmorganchase.com/">JPMorgan Chase & Co.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br/><p><em>Lead Android Developer at <a href="https://wearecrazy.org/">Crazy For Success Foundation</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Founder at <a href="https://github.com/The-Kite-Foundation">The Kite Foundation</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: justdvnsh2208](https://img.shields.io/twitter/follow/justdvnsh2208?style=social)](https://twitter.com/justdvnsh2208)
