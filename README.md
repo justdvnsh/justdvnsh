@@ -1,7 +1,5 @@
 <h2> Hi, I'm Divyansh Dwivedi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230"/>
-<p><em>Data Scientist at <a href="https://www.jpmorganchase.com/">JPMorgan Chase & Co.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><p><em>Lead Android Developer at <a href="https://wearecrazy.org/">Crazy For Success Foundation</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Founder at <a href="https://github.com/The-Kite-Foundation">The Kite Foundation</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
 [![Twitter: justdvnsh2208](https://img.shields.io/twitter/follow/justdvnsh2208?style=social)](https://twitter.com/justdvnsh2208)
 [![Linkedin: justdvnsh](https://img.shields.io/badge/-justdvnsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justdvnsh/)](https://www.linkedin.com/in/justdvnsh/)
@@ -13,14 +11,14 @@
 ```javascript
 const justdvnsh = {
   pronouns: "he" | "him",
-  code: [Kotlin, Java, Python, JavaScript, C],
+  code: [Kotlin, Java, Python],
   architecture: ["mvvm", "microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "IOSD",
                         speaker: "Myself",
                         mentor: "Krishna Rai"
                       },
-  askMeAbout: ["app dev", "tech", "astrophysics", "Machine Learning & Deep Learning", "Soccer/Football", "Gaming"],
+  askMeAbout: ["app dev", "tech", "astrophysics", "Cyber Security", "Soccer/Football", "Gaming"],
   technologies: {
       mobileApp: ["Android App - Android Studio", "Flutter Developer - iOS and Android"],
       frontEnd: {
@@ -29,13 +27,12 @@ const justdvnsh = {
       },
       backEnd: {
           js: ["node", "express"],
-          python: ["django"]
+          python: ["django", "flask"]
       },
       devOps: ["AWS", "Docker🐳", "Redis", "Nginx"],
       databases: ["mongo", "MySql", "sqlite", "postgres"],
       misc: ["Firebase", "ScikitLearn", "selenium", "open-cv", "Keras", "Tensorflow", "PyTorch", "Pandas", "Matplotlib", "Numpy"]
   },
-  currentProject: "I am contributing code to Google/Exoplayer. Working on my own open source project Samachaar (You'll find it in my pinned repo's). Android App developer at RedCarpetUp",
   funFact: "God is real, unless declared Integer.",
   challenge: "Contributing code to something that matters"
 }
