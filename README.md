@@ -4,7 +4,7 @@
 [![Linkedin: justdvnsh](https://img.shields.io/badge/-justdvnsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justdvnsh/)](https://www.linkedin.com/in/justdvnsh/)
 [![GitHub justdvnsh](https://img.shields.io/github/followers/justdvnsh?label=follow&style=social)](https://github.com/justdvnsh)
 
-I am currently working as Android developer at Geeks For Geeks.
+I am currently working as a Software Engineer at @Snappymob
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
