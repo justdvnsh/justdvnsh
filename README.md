@@ -4,25 +4,10 @@
 [![Linkedin: justdvnsh](https://img.shields.io/badge/-justdvnsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justdvnsh/)](https://www.linkedin.com/in/justdvnsh/)
 [![GitHub justdvnsh](https://img.shields.io/github/followers/justdvnsh?label=follow&style=social)](https://github.com/justdvnsh)
 
-I am currently working as a Senior Software Engineer at @GMP
+I am currently working as a Development Team Lead at @GMP
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const justdvnsh = {
-  pronouns: "he" | "him",
-  code: [Kotlin, Java, Python],
-  architecture: ["mvvm", "microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "IOSD",
-                        speaker: "Myself",
-                        mentor: "Krishna Rai"
-                      },
-  askMeAbout: ["app dev", "tech", "astrophysics", "Cyber Security", "Soccer/Football", "Gaming"],
-  funFact: "God is real, unless declared Integer.",
-  challenge: "Contributing code to something that matters"
-}
-```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
